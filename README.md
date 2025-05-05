@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veeringman  
+# 👋 Hi, I'm Veer Man  
 
 **"Veering Towards Innovation - Bold Code, Sharp Turns"**
 
