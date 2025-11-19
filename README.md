@@ -2,4 +2,4 @@
 
 **"Veering Towards Innovation - Bold Code, Sharp Turns"**
 
-🛠️ Working on Rust, Edge Computing, IoTs, Mobility, AI-powered systems and everything around !
+🛠️ Working on Rust, Edge Computing, IoTs, Mobility, BlockChains, AI-powered systems, Security and everything around !
