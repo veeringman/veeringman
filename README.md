@@ -1,4 +1,4 @@
-# 👋 Hi, Ve Man  here!
+# 👋 Hi, Veer here!
 
 **"Veering Towards Innovation - Bold Code, Sharp Turns"**
 
