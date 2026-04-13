@@ -2,43 +2,62 @@
 
 ### 🚀 Veering Towards Innovation — with Bold Code & Sharp Turns
 
-Welcome to my corner of GitHub, where ideas take shape through code and experimentation.
+I build **secure, distributed, and verifiable systems** — from the edge to the chain.
 
 ---
 
-## 🛠️ What I Work On
+## 🧠 What I’m Building
 
-I’m passionate about building and exploring systems at the intersection of:
+My work focuses on designing **end-to-end trust architectures** across edge, cloud, and blockchain:
 
-- 🦀 **Rust** for performance-critical and safe systems  
-- 🌐 **Edge Computing** & distributed architectures  
-- 📡 **IoT ecosystems** and connected devices  
-- 🚗 **Mobility & next-gen transport solutions**  
-- ⛓️ **Blockchain & decentralized technologies**  
-- 🤖 **AI-powered systems** and intelligent automation  
-- 🔐 **Security-first engineering**
+- 🦀 **Rust-first systems engineering** (performance, safety, control)
+- 🌐 **Edge-native platforms** for IoT, mobile, and real-time systems  
+- 🔐 **Zero Trust security frameworks** with identity-first access  
+- ⛓️ **Blockchain infrastructure & stablecoin settlement systems**  
+- 🧾 **Zero-knowledge & verifiable compute (ZK / STARKs / Proof systems)**  
+- 🤖 **AI-integrated systems** with verifiable and trustworthy outputs  
+- 📡 **Distributed protocols & networking (QUIC, MQTT, CoAP, WebTransport)**  
+
+---
+
+## ⚙️ Key Projects & Themes
+
+- **EdgeFabric / VeerEdge** → Unified edge compute + device orchestration  
+- **FortressDigital stack** → Zero Trust + Zero Proof control plane for financial systems  
+- **ProofCortex / FlowCortex** → Verifiable compute + blockchain anchoring  
+- **AuthBuddy / KeyCortex** → Identity, auth, and cryptographic execution  
+- **VeerOS** → Secure embedded Rust OS for ESP32 (RISC-V)  
+- **Overwatch / LanPeek** → Deep network visibility & tooling  
+- **EdgeVault / VeerTrust** → Secure runtimes and trust enforcement layers  
 
 ---
 
 ## ⚡ Philosophy
 
-> *"Bold code. Sharp turns. Constant innovation."*
+> *"Bold code. Sharp turns. Verifiable systems."*
 
-I enjoy pushing boundaries, experimenting with emerging tech, and solving real-world problems with scalable and efficient solutions.
+I believe the future is built on:
+- **Trustless verification over blind trust**
+- **Edge-first architectures over centralized control**
+- **Security as a foundation, not a feature**
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Rust patterns & async systems  
-- Edge-native AI deployments  
-- Secure and scalable distributed systems  
+- ZK + AI intersections (verifiable intelligence)  
+- Edge-native AI inference & orchestration  
+- Secure financial infrastructure (on-chain + off-chain bridges)  
+- Operating systems & low-level runtime design  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Collaboration
 
-I'm always open to collaborating on interesting projects, especially in cutting-edge tech.
+I’m open to working on **deep-tech systems** in:
+- Edge / IoT platforms  
+- Zero Trust security  
+- Blockchain & ZK systems  
+- AI + verifiability  
 
 ---
-
