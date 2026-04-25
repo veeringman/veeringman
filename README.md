@@ -26,7 +26,7 @@ My work focuses on designing **end-to-end trust architectures** across edge, clo
 - **FortressDigital stack** → Zero Trust + Zero Proof control plane for financial systems  
 - **ProofCortex / FlowCortex** → Verifiable compute + blockchain anchoring  
 - **AuthBuddy / KeyCortex** → Identity, auth, and cryptographic execution  
-- **VeerOS** → Rust operating system that turns devices from microcontrollers to cloud nodes into one coherent computational surface, with intelligence, security, and orchestration built into the kernel by design.
+- **VeerOS** → An AI-native OS with a from-scratch Rust kernel that turns devices — from microcontrollers to cloud nodes — into one coherent computational surface, with intelligence, security, orchestration, and UI built in by design..
 - **Overwatch / LanPeek** → Deep network visibility & tooling  
 - **EdgeVault / VeerTrust** → Secure runtimes and trust enforcement layers  
 
